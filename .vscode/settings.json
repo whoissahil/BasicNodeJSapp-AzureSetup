@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/a22fe878-d486-4a04-b62a-11b32682dbfe/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/todo-whoissahil",
+    "appService.deploySubpath": ""
+}
